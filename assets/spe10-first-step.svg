@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="740" viewBox="0 0 1200 740">
+<rect width="1200" height="740" rx="18" fill="#101b2e"/>
+<g font-family="Arial, sans-serif" fill="#f3f6fc">
+<text x="48" y="55" font-size="17" fill="#9eafc9" letter-spacing="2">BENCHMARK / HISTORICAL CANDIDATE</text>
+<text x="48" y="100" font-size="32" font-weight="700">SPE10 Model 2 · first step</text>
+<text x="48" y="133" font-size="17" fill="#b8c5d9">73.44 seconds · 1,121,999 active cells · cumulative production</text>
+<rect x="48" y="165" width="548" height="330" rx="12" fill="#1a2a42"/>
+<text x="72" y="202" font-size="21" font-weight="700">Cumulative oil</text>
+<text x="72" y="227" font-size="14" fill="#a9b9d0">standard m³</text>
+<text x="72" y="273" font-size="16" fill="#dce6f5">PetroPro</text>
+<rect x="183" y="258" width="288" height="20" rx="5" fill="#263c59"/>
+<rect x="183" y="258" width="283.79" height="20" rx="5" fill="#3788ff"/>
+<text x="572" y="274" text-anchor="end" font-size="16">7.328404</text>
+<text x="72" y="342" font-size="16" fill="#dce6f5">CMG</text>
+<rect x="183" y="327" width="288" height="20" rx="5" fill="#263c59"/>
+<rect x="183" y="327" width="288.0" height="20" rx="5" fill="#ed9d55"/>
+<text x="572" y="343" text-anchor="end" font-size="16">7.437220</text>
+<text x="72" y="411" font-size="16" fill="#dce6f5">OPM</text>
+<rect x="183" y="396" width="288" height="20" rx="5" fill="#263c59"/>
+<rect x="183" y="396" width="284.75" height="20" rx="5" fill="#9a79e5"/>
+<text x="572" y="412" text-anchor="end" font-size="16">7.353420</text>
+<text x="72" y="472" font-size="15" fill="#c4d1e3">PetroPro vs CMG: -1.46%  ·  vs OPM: -0.34%</text>
+<rect x="622" y="165" width="548" height="330" rx="12" fill="#1a2a42"/>
+<text x="646" y="202" font-size="21" font-weight="700">Cumulative water</text>
+<text x="646" y="227" font-size="14" fill="#a9b9d0">standard m³</text>
+<text x="646" y="273" font-size="16" fill="#dce6f5">PetroPro</text>
+<rect x="757" y="258" width="288" height="20" rx="5" fill="#263c59"/>
+<rect x="757" y="258" width="278.21" height="20" rx="5" fill="#3788ff"/>
+<text x="1146" y="274" text-anchor="end" font-size="16">0.012850</text>
+<text x="646" y="342" font-size="16" fill="#dce6f5">CMG</text>
+<rect x="757" y="327" width="288" height="20" rx="5" fill="#263c59"/>
+<rect x="757" y="327" width="288.0" height="20" rx="5" fill="#ed9d55"/>
+<text x="1146" y="343" text-anchor="end" font-size="16">0.013302</text>
+<text x="646" y="411" font-size="16" fill="#dce6f5">OPM</text>
+<rect x="757" y="396" width="288" height="20" rx="5" fill="#263c59"/>
+<rect x="757" y="396" width="279.72" height="20" rx="5" fill="#9a79e5"/>
+<text x="1146" y="412" text-anchor="end" font-size="16">0.012919</text>
+<text x="646" y="472" font-size="15" fill="#c4d1e3">PetroPro vs CMG: -3.40%  ·  vs OPM: -0.54%</text>
+<text x="48" y="539" font-size="17" font-weight="700">Test conditions and limits</text>
+<text x="48" y="570" font-size="15" fill="#c4d1e3">Historical candidate, not core 0.2.0. Well controls differ: PetroPro frozen surface rate,</text>
+<text x="48" y="594" font-size="15" fill="#c4d1e3">CMG BHW, OPM RESV. PVT and wellbore mapping remain under review.</text>
+<text x="48" y="618" font-size="15" fill="#c4d1e3">Gas production data unavailable; this short-step comparison is not an accuracy qualification.</text>
+<line x1="48" x2="1152" y1="651" y2="651" stroke="#40516c"/>
+<text x="48" y="684" font-size="14" fill="#9eafc9">Source: petropro.app/benchmark-020.html · Values rounded for display</text>
+</g></svg>
