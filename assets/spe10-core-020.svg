@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="740" viewBox="0 0 1200 740">
+<rect width="1200" height="740" rx="18" fill="#101b2e"/>
+<g font-family="Arial, sans-serif" fill="#f3f6fc">
+<text x="48" y="55" font-size="17" fill="#9eafc9" letter-spacing="2">BLACK-OIL CORE 0.2.0 / ENGINEERING BASELINE</text>
+<text x="48" y="100" font-size="32" font-weight="700">SPE10 Model 2 · days 30–365</text>
+<text x="48" y="134" font-size="17" fill="#b8c5d9">1,094,421 active cells · cumulative volumes in standard m³</text>
+<rect x="48" y="166" width="350" height="330" rx="12" fill="#1a2a42"/>
+<text x="68" y="205" font-size="20" font-weight="700">Oil produced</text>
+<text x="68" y="258" font-size="15">PetroPro</text>
+<rect x="158" y="243" width="115" height="18" rx="4" fill="#263c59"/>
+<rect x="158" y="243" width="114.99" height="18" rx="4" fill="#3788ff"/>
+<text x="380" y="258" text-anchor="end" font-size="14">199,065.6</text>
+<text x="68" y="323" font-size="15">CMG</text>
+<rect x="158" y="308" width="115" height="18" rx="4" fill="#263c59"/>
+<rect x="158" y="308" width="115.00" height="18" rx="4" fill="#ed9d55"/>
+<text x="380" y="323" text-anchor="end" font-size="14">199,084.6</text>
+<text x="68" y="388" font-size="15">OPM</text>
+<rect x="158" y="373" width="115" height="18" rx="4" fill="#263c59"/>
+<text x="380" y="388" text-anchor="end" font-size="14" fill="#a9b9d0">Unavailable</text>
+<text x="68" y="458" font-size="15" fill="#c4d1e3">PetroPro vs CMG: -0.0095%</text>
+<rect x="418" y="166" width="350" height="330" rx="12" fill="#1a2a42"/>
+<text x="438" y="205" font-size="20" font-weight="700">Water produced</text>
+<text x="438" y="258" font-size="15">PetroPro</text>
+<rect x="528" y="243" width="115" height="18" rx="4" fill="#263c59"/>
+<rect x="528" y="243" width="114.95" height="18" rx="4" fill="#3788ff"/>
+<text x="750" y="258" text-anchor="end" font-size="14">66,578.6</text>
+<text x="438" y="323" font-size="15">CMG</text>
+<rect x="528" y="308" width="115" height="18" rx="4" fill="#263c59"/>
+<rect x="528" y="308" width="115.00" height="18" rx="4" fill="#ed9d55"/>
+<text x="750" y="323" text-anchor="end" font-size="14">66,607.9</text>
+<text x="438" y="388" font-size="15">OPM</text>
+<rect x="528" y="373" width="115" height="18" rx="4" fill="#263c59"/>
+<text x="750" y="388" text-anchor="end" font-size="14" fill="#a9b9d0">Unavailable</text>
+<text x="438" y="458" font-size="15" fill="#c4d1e3">PetroPro vs CMG: -0.0441%</text>
+<rect x="788" y="166" width="350" height="330" rx="12" fill="#1a2a42"/>
+<text x="808" y="205" font-size="20" font-weight="700">Water injected</text>
+<text x="808" y="258" font-size="15">PetroPro</text>
+<rect x="898" y="243" width="115" height="18" rx="4" fill="#263c59"/>
+<rect x="898" y="243" width="115.00" height="18" rx="4" fill="#3788ff"/>
+<text x="1120" y="258" text-anchor="end" font-size="14">263,263.6</text>
+<text x="808" y="323" font-size="15">CMG</text>
+<rect x="898" y="308" width="115" height="18" rx="4" fill="#263c59"/>
+<rect x="898" y="308" width="115.00" height="18" rx="4" fill="#ed9d55"/>
+<text x="1120" y="323" text-anchor="end" font-size="14">263,259.9</text>
+<text x="808" y="388" font-size="15">OPM</text>
+<rect x="898" y="373" width="115" height="18" rx="4" fill="#263c59"/>
+<text x="1120" y="388" text-anchor="end" font-size="14" fill="#a9b9d0">Unavailable</text>
+<text x="808" y="458" font-size="15" fill="#c4d1e3">PetroPro vs CMG: +0.0014%</text>
+<text x="48" y="539" font-size="17" font-weight="700">Test conditions and limits</text>
+<text x="48" y="570" font-size="15" fill="#c4d1e3">Cumulative volumes exclude the first 30 days; no matched OPM result is available.</text>
+<text x="48" y="594" font-size="15" fill="#c4d1e3">CMG recorded 13 linear iteration-limit retries; internal steps differ and mapping remains under review.</text>
+<text x="48" y="618" font-size="15" fill="#c4d1e3">Gas phase not tested. Bars begin at zero; values and percentages show the small differences.</text>
+<line x1="48" x2="1152" y1="651" y2="651" stroke="#40516c"/>
+<text x="48" y="684" font-size="14" fill="#9eafc9">Source: petropro.app/benchmark-020.html · Values rounded for display</text>
+</g></svg>
