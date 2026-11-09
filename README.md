@@ -10,13 +10,13 @@ PetroPro is an upstream oil and gas software platform in development, bringing s
 
 ### Core 0.2.0 · SPE10 Model 2
 
-![SPE10 core 0.2.0 comparison of PetroPro, CMG and unavailable OPM data](assets/spe10-core-020.svg)
+![SPE10 core 0.2.0 comparison of PetroPro, CMG and unavailable OPM data](assets/website-spe10-core.jpg)
 
 OPM has no matched result for this case; the graph does not treat missing data as zero. This case has no gas phase.
 
 ### Historical candidate · three-simulator comparison
 
-![Historical SPE10 first-step comparison of PetroPro, CMG and OPM](assets/spe10-first-step.svg)
+![Historical SPE10 first-step comparison of PetroPro, CMG and OPM](assets/website-spe10-first.jpg)
 
 This is an earlier candidate, not core 0.2.0. The three simulators used different well controls; PVT and wellbore mapping remain under review. The short-step result does not establish overall accuracy.
 
