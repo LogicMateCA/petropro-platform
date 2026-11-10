@@ -20,6 +20,6 @@ When feasible, we aim to report the candidate version, input and control assumpt
 
 ## Start a discussion
 
-[Open a testing or validation issue](https://github.com/LogicMateCA/petropro-platform/issues/new/choose) or comment on an existing relevant issue. Please identify whether your question concerns a public case, an anonymized case or a validation method; do not upload restricted data publicly.
+[Open a testing or validation issue](https://github.com/LogicMateCA/petropro-platform/issues/new/choose), comment on an existing relevant issue, or email [logicmateca@gmail.com](mailto:logicmateca@gmail.com) with a short description. Please discuss any restricted material before sending files. Please identify whether your question concerns a public case, an anonymized case or a validation method; do not upload restricted data publicly.
 
 The current [results](https://petropro.app/benchmark-020.html) distinguish the black-oil core 0.2.0 baseline from historical candidates and describe available reference results and case limits.
