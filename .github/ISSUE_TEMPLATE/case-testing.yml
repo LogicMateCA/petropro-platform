@@ -1,0 +1,43 @@
+name: Case testing or validation discussion
+description: Discuss a public or shareable case, comparison method, or validation question.
+title: "[Case] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest. This issue is public. **Do not upload confidential models, proprietary files, credentials, or information you cannot share publicly.** We can first discuss whether a case is suitable and how restricted material should be handled.
+  - type: dropdown
+    id: request
+    attributes:
+      label: What would you like to discuss?
+      options:
+        - A public benchmark
+        - An anonymized or shareable case
+        - A validation method
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Case or question
+      description: Share a public description or source link. What would you like us to investigate?
+    validations:
+      required: true
+  - type: input
+    id: scope
+    attributes:
+      label: Model scope
+      description: If known, include model type, approximate cell count, fluid phases, and input format.
+  - type: textarea
+    id: comparisons
+    attributes:
+      label: Outputs and reference
+      description: Which well rates, cumulative volumes or other outputs matter? Is there a reference result you may share?
+  - type: checkboxes
+    id: sharing
+    attributes:
+      label: Sharing
+      options:
+        - label: I understand this issue is public and will not include confidential data.
+          required: true
