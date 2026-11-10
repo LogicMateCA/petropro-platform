@@ -4,7 +4,7 @@ PetroPro is an upstream oil and gas software platform in development, bringing s
 
 **Status:** beta development · **Latest recorded milestone:** black-oil core 0.2.0 · **Updated:** 2026-11-09
 
-[Website](https://petropro.app/) · [Benchmark charts](https://petropro.app/benchmark-020.html) · [Development progress](https://petropro.app/progress.html) · [Ask a question or share a test case](https://github.com/LogicMateCA/petropro-platform/issues)
+[Website](https://petropro.app/) · [Benchmark charts](https://petropro.app/benchmark-020.html) · [Development progress](https://petropro.app/progress.html) · [Free case testing](TESTING.md) · [Ask a question](https://github.com/LogicMateCA/petropro-platform/issues)
 
 ## Benchmark charts
 
@@ -72,7 +72,7 @@ Earlier solver candidates are research results and are not interchangeable with 
 
 ## Feedback and collaboration
 
-We welcome technical feedback, suggestions for public benchmarks and discussion of validation methods. If you have a suitable case and would like to discuss a **free test**, please [open an issue](https://github.com/LogicMateCA/petropro-platform/issues). Please do not post confidential models or company data publicly; we can first discuss a suitable way to share them.
+We welcome technical feedback, suggestions for public benchmarks and discussion of validation methods. If you have a suitable case and would like to discuss a **free test**, see the [testing guide](TESTING.md) and [open an issue](https://github.com/LogicMateCA/petropro-platform/issues). Please do not post confidential models or company data publicly; we can first discuss a suitable way to share them.
 
 ## Repository and rights
 
