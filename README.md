@@ -72,7 +72,7 @@ Earlier solver candidates are research results and are not interchangeable with 
 
 ## Feedback and collaboration
 
-We welcome technical feedback, suggestions for public benchmarks and discussion of validation methods. If you have a suitable case and would like to discuss a **free test**, see the [testing guide](TESTING.md) and [open an issue](https://github.com/LogicMateCA/petropro-platform/issues). Please do not post confidential models or company data publicly; we can first discuss a suitable way to share them.
+We welcome technical feedback, suggestions for public benchmarks and discussion of validation methods. If you have a suitable case and would like to discuss a **free test**, see the [testing guide](TESTING.md), [open an issue](https://github.com/LogicMateCA/petropro-platform/issues), or email [logicmateca@gmail.com](mailto:logicmateca@gmail.com). Please do not post confidential models or company data publicly; we can first discuss a suitable way to share them.
 
 ## Repository and rights
 
